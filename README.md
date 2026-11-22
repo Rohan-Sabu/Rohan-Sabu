@@ -25,7 +25,7 @@ Currently, I'm strengthening my programming fundamentals and exploring different
 
 - **LinkedIn:** https://www.linkedin.com/in/rohan-sabu
 
-### ✍️ Dev Quote of the Day
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
