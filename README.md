@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Rohan Sabu 👋
 
-<!--
-**Rohan-Sabu/Rohan-Sabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Development Engineer in training | Java and DSA  
 
-Here are some ideas to get you started:
+I'm a Computer Science and Business Systems undergraduate interested in building practical software solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm particularly interested in creating technology that makes everyday tasks simpler, helps students navigate their academic and career journeys, and makes useful digital tools more accessible.
+
+Currently, I'm strengthening my programming fundamentals and exploring different areas of software development while working towards becoming a well-rounded Software Engineer.
+
+### 💻 Tech Stack & Learning
+
+- **Programming Language:** Java
+- **Problem Solving:** Data Structures & Algorithms
+- **Currently Exploring:** Full-Stack Development and SQL
+
+### 🎯 What I'm Working Towards
+
+- Building practical applications that address real-world problems.
+- Developing solutions that help students and everyday users.
+- Strengthening problem-solving and software engineering fundamentals.
+- Exploring frontend and backend technologies to understand full-stack development.
+
+### 📫 Get in Touch
+
+- **LinkedIn:** https://www.linkedin.com/in/rohan-sabu
+
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Rohan-Sabu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Rohan-Sabu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rohan-Sabu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rohan-Sabu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rohan-Sabu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=Rohan-Sabu&icon=0&color=0)](https://visitcount.itsvg.in)
+
