@@ -4,9 +4,9 @@
 
 I'm a Computer Science and Business Systems undergraduate interested in building practical software solutions that solve real-world problems.
 
-I'm particularly interested in creating technology that makes everyday tasks simpler, helps students navigate their academic and career journeys, and makes useful digital tools more accessible.
-
 Currently, I'm strengthening my programming fundamentals and exploring different areas of software development while working towards becoming a well-rounded Software Engineer.
+
+I'm particularly interested in creating technology that makes everyday tasks simpler, helps students navigate their academic and career journeys, and makes useful digital tools more accessible.
 
 ### 💻 Tech Stack & Learning
 
