@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi, I'm Rohan Sabu 👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+
 # Hi, I'm Rohan Sabu 👋
 
 ### Software Development Engineer in training | Java and DSA  
