@@ -25,13 +25,6 @@ I'm particularly interested in creating technology that makes everyday tasks sim
 - Developing solutions that help students and everyday users.
 - Strengthening problem-solving and software engineering fundamentals.
 - Exploring frontend and backend technologies to understand full-stack development.
-  
-
-### 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=Rohan-Sabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rohan-Sabu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rohan-Sabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🌐 Socials:
